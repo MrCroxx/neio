@@ -1,0 +1,12 @@
+[package]
+name = "neio"
+version = "0.0.0"
+edition = "2024"
+repository = "https://github.com/mrcroxx/neio"
+homepage = "https://github.com/mrcroxx/neio"
+keywords = ["io"]
+authors = ["MrCroxx <mrcroxx.cs@gmail.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+
+[dependencies]
