@@ -1,5 +1,6 @@
 [package]
 name = "neio"
+description = "Neo I/O"
 version = "0.0.0"
 edition = "2024"
 repository = "https://github.com/mrcroxx/neio"
