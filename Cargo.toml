@@ -1,6 +1,9 @@
-[package]
-name = "neio"
-description = "Neo I/O"
+[workspace]
+resolver = "2"
+members = ["neio", "neio-core"]
+
+
+[workspace.package]
 version = "0.0.0"
 edition = "2024"
 repository = "https://github.com/mrcroxx/neio"
@@ -9,5 +12,3 @@ keywords = ["io"]
 authors = ["MrCroxx <mrcroxx.cs@gmail.com>"]
 license = "Apache-2.0"
 readme = "README.md"
-
-[dependencies]
